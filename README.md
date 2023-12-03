@@ -1,3 +1,2 @@
 # bomb
 Social media
-AAA
